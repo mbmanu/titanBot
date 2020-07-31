@@ -1,5 +1,3 @@
 # titanBot
-A mobile controlled robot car.
+Mobile app controlled robot car.
 
-Wifi module: NodeMCU.
-Client: Blynk.
