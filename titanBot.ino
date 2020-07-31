@@ -2,9 +2,9 @@
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
-char auth[] = "927d0555548c44e1bd62011b49d828e1";
-char ssid[] = "free_wifi";
-char pass[] = "labeagle";
+char auth[] = "Auth token";
+char ssid[] = "hello_world";
+char pass[] = "hello_world";
 int PWMA=5;//Right side
 int PWMB=4;//Left side
 int DA=0;//Right reverse
